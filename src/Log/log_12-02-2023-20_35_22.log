@@ -1,0 +1,16 @@
+12-Feb-2023 20:34:32,440	[main]		com.iris22a.keywords.UIKeywords	
+		INFO 	chromebrowser is launched successfully
+12-Feb-2023 20:34:37,909	[main]		com.iris22a.keywords.UIKeywords	
+		INFO 	Url is launchedhttps://www.myntra.com/
+12-Feb-2023 20:34:46,126	[main]		com.iris22a.pages.HomePage	
+		INFO 	clicked on casual shirts
+12-Feb-2023 20:34:46,754	[main]		com.iris22a.keywords.UIKeywords	
+		INFO 	Browser is closed successfully
+12-Feb-2023 20:35:11,273	[main]		com.iris22a.keywords.UIKeywords	
+		INFO 	chromebrowser is launched successfully
+12-Feb-2023 20:35:15,732	[main]		com.iris22a.keywords.UIKeywords	
+		INFO 	Url is launchedhttps://www.myntra.com/
+12-Feb-2023 20:35:22,308	[main]		com.iris22a.pages.HomePage	
+		INFO 	clicked on casual shirts
+12-Feb-2023 20:35:22,822	[main]		com.iris22a.keywords.UIKeywords	
+		INFO 	Browser is closed successfully
